@@ -2,6 +2,7 @@
 
 ## Things I learnt
 
+[Watch the demo](https://github.com/cris-mbici/website_checker.py/raw/main/web_checker_demo.mp4)
 This project taught me several key programming concepts and practical skills:
 
 ### 1. **Working with CSV Files**
